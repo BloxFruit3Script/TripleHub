@@ -1,4 +1,4 @@
-local VirtualManager = game:GetService("VirtualInputManager")
+local VirtualInputManager = game:GetService("VirtualInputManager")
 
 warn([[
 ----------------------------------------------------
